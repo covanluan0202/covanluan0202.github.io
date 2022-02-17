@@ -1,0 +1,42 @@
+
+.form-group {
+    margin: 10px 2px;
+
+}
+
+.form-control {
+    margin: 0 auto;
+    padding: 5px;
+    border: none;
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    color: orangered;
+    display: block;
+    outline: none;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 3px orangered;
+}
+
+.button {
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 0 3px green;
+    padding: 5px 10px;
+    outline: none;
+}
+
+.button:focus {
+    box-shadow: 0 0 3px orangered;
+    color: orangered;
+}
+html{
+    background-image: url("/imgASMGD1/dangnhap12.jpg");
+ 
+
+}
+.body{
+   width:500px ;
+}
